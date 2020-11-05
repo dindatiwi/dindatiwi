@@ -2,7 +2,6 @@
 
 
 <p align="center">
-  <img src="https://scontent-cgk1-1.xx.fbcdn.net/v/t1.15752-9/107429294_2602797519943180_4376794886778548889_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_eui2=AeE7M-9VTsmnVHzIZ_yiaxgSBn7JhprL90UGfsmGmsv3RUdRby08JzwnxKSHt_KYh8L0S0p4B7VD8SxJpjhcrqek&_nc_ohc=gAUHynUQEb4AX9GHGE6&_nc_ht=scontent-cgk1-1.xx&oh=ca4333d407bef37fe6df79d5f61bea66&oe=5F599894" width="400px">
   <br>
   <samp>
     Hello, I'm Adinda! :wink: from Indonesia.
