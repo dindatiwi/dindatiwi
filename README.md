@@ -6,7 +6,7 @@
   <samp>
     Hello, I'm Adinda! :wink: from Indonesia.
     Just a lonewolf girl. Beside's programming, I enjoy eating food and playing games.<br>
-    :school: Sophomore at University of Pancasila | Fellow Openclassroom Front-End Developer Diploma | Apple Developer Academy Participant @ BINUS <br>
+    :school: Sophomore at University of Pancasila | Fellow Openclassroom Front-End Developer Diploma | Apple Developer Academy Alumni @ BINUS <br>
     :sparkles: Favorite Tech: Javascript<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>, Swift<code><img height="20" src="https://img.favpng.com/9/14/8/swift-apple-programming-language-xcode-png-favpng-yJUWQpuDBZMQXYL1mkt70FVSq.jpg"></code>. <br>
     :notebook: I’m currently learning Front-End & Computer Science <br>
     :email:	dnda.prameswari@gmail.com <br>
